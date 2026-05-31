@@ -1,0 +1,11 @@
+{
+  "name": "chopper-port-hunter",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "chopper-port-hunter": "./index.js"
+  },
+  "dependencies": {
+    "inquirer": "^14.0.1"
+  }
+}
