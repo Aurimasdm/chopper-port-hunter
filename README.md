@@ -6,9 +6,11 @@ _Tested on:_ Windows 11 🪟
 
 ## How to Use
 
-~~Type this in your terminal:~~
+Type this in your terminal:
 
-~~npx chopper-port-hunter~~
+```bash
+npx chopper-port-hunter
+```
 
 Clone or download the repository, then run `node index.js`.
 
