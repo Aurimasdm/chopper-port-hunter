@@ -1,7 +1,7 @@
 {
   "name": "chopper-port-hunter",
-  "version": "1.0.3",
-  "license": "CC-BY-NC-ND-4.0",
+  "version": "1.0.4",
+  "license": "MIT",
   "type": "module",
   "bin": {
     "chopper-port-hunter": "./index.js"
