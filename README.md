@@ -54,4 +54,4 @@ The background execution engine terminates the process silently and confirms the
 
 * **Input Guardrails**: Automatically isolates and rejects strings, system ports under 1024, and out-of-bounds inputs above 65535.
 * **Silent Runtime**: Utilises background execution hooks to eliminate annoying terminal popups and visual window flashes.
-* **License**: CC-BY-NC-ND-4.0
+* **License**: MIT
